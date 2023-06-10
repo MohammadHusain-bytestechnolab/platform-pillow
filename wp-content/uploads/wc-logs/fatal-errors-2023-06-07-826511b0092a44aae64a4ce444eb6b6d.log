@@ -1,0 +1,24 @@
+2023-06-07T12:54:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_image_id() in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\home.php:178
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\contourhealth\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\home.php on line 178
+
+2023-06-07T13:07:19+00:00 CRITICAL syntax error, unexpected token ">" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\home.php on line 207
+
+2023-06-07T13:44:15+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\home.php:166
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\contourhealth\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\home.php on line 166
+
+2023-06-07T13:44:35+00:00 CRITICAL syntax error, unexpected token "=>", expecting ")" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\home.php on line 166
+
+2023-06-07T13:49:06+00:00 CRITICAL syntax error, unexpected token "=>", expecting ")" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\home.php on line 166
+
+2023-06-07T15:04:35+00:00 CRITICAL syntax error, unexpected variable "$products_query", expecting "," or ";" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\home.php on line 173
+

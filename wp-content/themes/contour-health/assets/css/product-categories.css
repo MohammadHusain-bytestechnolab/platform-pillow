@@ -1,0 +1,43 @@
+.product-categories-main-container{
+  padding: 5em 0 !important;
+}
+
+.product-categories-heading-img-container{
+  position: relative;
+  background-image: url('https://www.platforminc.cn/template/platform/img/ourImg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 300px;
+}
+
+.product-categories-heading-img-overlay{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.392);
+}
+
+.product-categories-img-container{
+  max-width: 400px;
+}
+
+.product-categories-img-container > img{
+  width: 100%;
+  height: 100%;
+   object-fit: cover;
+}
+
+.product-categories-img-container {
+  overflow: hidden;
+}
+
+.product-categories-img-container > img {
+  transition: transform 0.3s ease;
+}
+
+.product-categories-img-container:hover > img {
+  transform: scale(1.1);
+}

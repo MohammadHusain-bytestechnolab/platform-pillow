@@ -1,0 +1,16 @@
+2023-06-02T10:00:25+00:00 CRITICAL syntax error, unexpected token "require" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\functions.php on line 92
+
+2023-06-02T10:00:44+00:00 CRITICAL Uncaught Error: Failed opening required 'http://localhost/contourhealth/wp-content/themes/contour-health/inc/testimonials.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\functions.php:89
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-settings.php(591): include()
+#1 C:\xampp\htdocs\contourhealth\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\contourhealth\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\contourhealth\wp-admin\nav-menus.php(13): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\functions.php on line 89
+
+2023-06-02T10:05:01+00:00 CRITICAL Cannot redeclare create_homeslider_cpt() (previously declared in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\inc\testimonials.php:6) in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\inc\home_slider.php on line 3
+
+2023-06-02T10:05:11+00:00 CRITICAL Cannot redeclare create_homeslider_cpt() (previously declared in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\inc\testimonials.php:6) in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\inc\home_slider.php on line 3
+

@@ -1,0 +1,51 @@
+2023-06-08T08:47:36+00:00 CRITICAL syntax error, unexpected variable "$category_link", expecting "," or ";" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php on line 26
+
+2023-06-08T08:47:41+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php:25
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\contourhealth\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php on line 25
+
+2023-06-08T08:50:56+00:00 CRITICAL Uncaught Error: Call to undefined function length() in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php:25
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\contourhealth\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php on line 25
+
+2023-06-08T08:51:05+00:00 CRITICAL Uncaught Error: Undefined constant "length" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php:25
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\contourhealth\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php on line 25
+
+2023-06-08T08:51:20+00:00 CRITICAL Uncaught Error: Undefined constant "length" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php:25
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\contourhealth\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php on line 25
+
+2023-06-08T08:51:28+00:00 CRITICAL Uncaught Error: Call to undefined function length() in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php:25
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\contourhealth\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php on line 25
+
+2023-06-08T08:52:00+00:00 CRITICAL Uncaught ArgumentCountError: sizeof() expects at least 1 argument, 0 given in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php:25
+Stack trace:
+#0 C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php(25): sizeof()
+#1 C:\xampp\htdocs\contourhealth\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\contourhealth\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\contourhealth\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\product-categories.php on line 25
+

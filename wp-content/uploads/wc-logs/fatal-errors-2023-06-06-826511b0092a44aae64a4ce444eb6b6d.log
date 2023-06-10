@@ -1,0 +1,12 @@
+2023-06-06T06:37:58+00:00 CRITICAL syntax error, unexpected variable "$showitems" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\blog.php on line 56
+
+2023-06-06T06:40:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\blog.php on line 78
+
+2023-06-06T06:40:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\blog.php on line 76
+
+2023-06-06T06:42:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\blog.php on line 76
+
+2023-06-06T06:42:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\blog.php on line 78
+
+2023-06-06T12:31:31+00:00 CRITICAL syntax error, unexpected token "}" in C:\xampp\htdocs\contourhealth\wp-content\themes\contour-health\functions.php on line 24
+

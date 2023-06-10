@@ -1,0 +1,20 @@
+.blog-heading-img-container{
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 300px;
+}
+
+.blog-heading-img-overlay{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.392);
+}
+
+.blog-main-container{
+  padding: 5em 0;
+}
